@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+target/
+allure-results/
+allure-report/
+playwright-report/
+test-results/
+reports/
+.pytest_cache/
+.env
+*.onetoc2

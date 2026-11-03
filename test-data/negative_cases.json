@@ -1,0 +1,8 @@
+[
+  { "name": "get-unknown-id", "method": "GET", "path": "/GetBook.php", "params": { "ID": "doesnotexist000" }, "body": null,
+    "expectedStatus": 404, "expectedMsg": "The book by requested bookid / author name does not exists!" },
+  { "name": "get-unknown-author", "method": "GET", "path": "/GetBook.php", "params": { "AuthorName": "nobody_xyz_123" }, "body": null,
+    "expectedStatus": 404, "expectedMsg": "The book by requested bookid / author name does not exists!" },
+  { "name": "delete-unknown-id", "method": "POST", "path": "/DeleteBook.php", "params": null, "body": { "ID": "doesnotexist000" },
+    "expectedStatus": 404, "expectedMsg": "Delete Book operation failed, looks like the book doesnt exists" }
+]
