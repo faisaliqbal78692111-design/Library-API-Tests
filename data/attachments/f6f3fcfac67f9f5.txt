@@ -1,0 +1,6 @@
+POST http://216.10.245.166/Library/Addbook.php
+Status: 200
+Time: 262 ms
+Request body: {'name': 'Book 0', 'isbn': 'qaad2eb24a', 'aisle': '100', 'author': 'qa-author-752782b5'}
+
+{"Msg":"successfully added","ID":"qaad2eb24a100"}
