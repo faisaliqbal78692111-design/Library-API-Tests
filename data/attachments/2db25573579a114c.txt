@@ -1,6 +1,0 @@
-POST http://216.10.245.166/Library/DeleteBook.php
-Status: 404
-Time: 258 ms
-Request body: {'ID': 'qac71de3b4227'}
-
-{"msg":"Delete Book operation failed, looks like the book doesnt exists"}
