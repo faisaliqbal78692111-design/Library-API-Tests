@@ -1,6 +1,0 @@
-POST http://216.10.245.166/Library/DeleteBook.php
-Status: 200
-Time: 255 ms
-Request body: {'ID': 'qa6aa63c6a101'}
-
-{"msg":"book is successfully deleted"}

@@ -1,6 +1,0 @@
-GET http://216.10.245.166/Library/GetBook.php?ID=qad44ea81b227
-Status: 200
-Time: 255 ms
-Request body: None
-
-[{"book_name":"Learn Appium Automation with Java","isbn":"qad44ea81b","aisle":"227","author":"Lifecycle QA"}]

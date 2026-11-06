@@ -1,0 +1,6 @@
+POST http://216.10.245.166/Library/Addbook.php
+Status: 200
+Time: 223 ms
+Request body: {'name': 'Selenium automation using Java', 'isbn': 'qa9c090fec', 'aisle': '1223', 'author': 'Rahul QA'}
+
+{"Msg":"successfully added","ID":"qa9c090fec1223"}
