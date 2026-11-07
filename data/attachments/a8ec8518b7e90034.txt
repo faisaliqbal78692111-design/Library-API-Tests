@@ -1,6 +1,0 @@
-GET http://216.10.245.166/Library/GetBook.php?AuthorName=qa-author-1a650abb
-Status: 200
-Time: 249 ms
-Request body: None
-
-[{"book_name":"Book 0","isbn":"qa770ca954","aisle":"100"},{"book_name":"Book 1","isbn":"qaa5434998","aisle":"101"},{"book_name":"Book 2","isbn":"qa271bcac9","aisle":"102"}]
