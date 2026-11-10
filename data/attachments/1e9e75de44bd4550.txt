@@ -1,0 +1,6 @@
+POST http://216.10.245.166/Library/Addbook.php
+Status: 200
+Time: 241 ms
+Request body: {'name': 'Learn Appium Automation with Java', 'isbn': 'qa37e7bb9b', 'aisle': '227', 'author': 'John foe'}
+
+{"Msg":"successfully added","ID":"qa37e7bb9b227"}
