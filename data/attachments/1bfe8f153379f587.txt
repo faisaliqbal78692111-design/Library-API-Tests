@@ -1,6 +1,0 @@
-POST http://216.10.245.166/Library/Addbook.php
-Status: 200
-Time: 238 ms
-Request body: {'name': 'Learn Appium Automation with Java', 'isbn': 'qae0fe99b3', 'aisle': '227', 'author': 'John foe'}
-
-{"Msg":"Book Already Exists","ID":"qae0fe99b3227"}

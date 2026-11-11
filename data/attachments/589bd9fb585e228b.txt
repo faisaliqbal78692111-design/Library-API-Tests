@@ -1,0 +1,6 @@
+GET http://216.10.245.166/Library/GetBook.php?AuthorName=qa-author-1d08c50f
+Status: 200
+Time: 230 ms
+Request body: None
+
+[{"book_name":"Book 0","isbn":"qa3936997f","aisle":"100"},{"book_name":"Book 1","isbn":"qaad1c7d76","aisle":"101"},{"book_name":"Book 2","isbn":"qaaa5f0203","aisle":"102"}]
