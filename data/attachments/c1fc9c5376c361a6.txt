@@ -1,0 +1,6 @@
+POST http://216.10.245.166/Library/Addbook.php
+Status: 200
+Time: 219 ms
+Request body: {'name': 'API Testing with Python', 'isbn': 'qa6fc44368', 'aisle': '42', 'author': 'Asha Khan'}
+
+{"Msg":"successfully added","ID":"qa6fc4436842"}

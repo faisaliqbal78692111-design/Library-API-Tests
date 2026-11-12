@@ -1,6 +1,0 @@
-GET http://216.10.245.166/Library/GetBook.php?AuthorName=nobody_xyz_123
-Status: 404
-Time: 231 ms
-Request body: None
-
-{"msg":"The book by requested bookid \/ author name does not exists!"}
