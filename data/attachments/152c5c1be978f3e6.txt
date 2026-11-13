@@ -1,0 +1,6 @@
+GET http://216.10.245.166/Library/GetBook.php?AuthorName=qa-author-55da34a7
+Status: 200
+Time: 254 ms
+Request body: None
+
+[{"book_name":"Book 0","isbn":"qa41d900af","aisle":"100"},{"book_name":"Book 1","isbn":"qa31c9e8d3","aisle":"101"},{"book_name":"Book 2","isbn":"qa0bb0d131","aisle":"102"}]
