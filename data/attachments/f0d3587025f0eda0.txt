@@ -1,6 +1,0 @@
-GET http://216.10.245.166/Library/GetBook.php?ID=qa3913d370227
-Status: 200
-Time: 234 ms
-Request body: None
-
-[{"book_name":"Learn Appium Automation with Java","isbn":"qa3913d370","aisle":"227","author":"John foe"}]

@@ -1,0 +1,6 @@
+GET http://216.10.245.166/Library/GetBook.php?AuthorName=qa-author-db83b9f2
+Status: 200
+Time: 285 ms
+Request body: None
+
+[{"book_name":"Book 0","isbn":"qa80ddcc3a","aisle":"100"},{"book_name":"Book 1","isbn":"qabb0153df","aisle":"101"},{"book_name":"Book 2","isbn":"qaa3236d30","aisle":"102"}]
