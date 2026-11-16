@@ -1,0 +1,6 @@
+POST http://216.10.245.166/Library/Addbook.php
+Status: 200
+Time: 387 ms
+Request body: {'name': 'Learn Appium Automation with Java', 'isbn': 'qa7a24f65b', 'aisle': '227', 'author': 'Lifecycle QA'}
+
+{"Msg":"successfully added","ID":"qa7a24f65b227"}
