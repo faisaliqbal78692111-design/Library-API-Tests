@@ -1,6 +1,0 @@
-GET http://216.10.245.166/Library/GetBook.php?AuthorName=qa-author-aa17c292
-Status: 200
-Time: 295 ms
-Request body: None
-
-[{"book_name":"Book 0","isbn":"qad29be3c2","aisle":"100"},{"book_name":"Book 1","isbn":"qa0181da10","aisle":"101"},{"book_name":"Book 2","isbn":"qa717e7b47","aisle":"102"}]

@@ -1,6 +1,0 @@
-GET http://216.10.245.166/Library/GetBook.php?AuthorName=qa-author-e8770dbb
-Status: 200
-Time: 217 ms
-Request body: None
-
-[{"book_name":"Book 0","isbn":"qa40d819ef","aisle":"100"},{"book_name":"Book 1","isbn":"qa434613db","aisle":"101"},{"book_name":"Book 2","isbn":"qa13656445","aisle":"102"}]
