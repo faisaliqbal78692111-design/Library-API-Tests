@@ -1,6 +1,0 @@
-GET http://216.10.245.166/Library/GetBook.php?AuthorName=qa-author-0c8958dc
-Status: 200
-Time: 234 ms
-Request body: None
-
-[{"book_name":"Book 0","isbn":"qa2b3c4d45","aisle":"100"},{"book_name":"Book 1","isbn":"qa22df3fdc","aisle":"101"},{"book_name":"Book 2","isbn":"qaceb34b02","aisle":"102"}]
