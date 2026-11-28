@@ -1,0 +1,6 @@
+GET http://216.10.245.166/Library/GetBook.php?AuthorName=qa-author-61e66a8a
+Status: 200
+Time: 229 ms
+Request body: None
+
+[{"book_name":"Book 0","isbn":"qa8f7a043f","aisle":"100"},{"book_name":"Book 1","isbn":"qa29d066c7","aisle":"101"},{"book_name":"Book 2","isbn":"qa505f58e6","aisle":"102"}]

@@ -1,6 +1,0 @@
-GET http://216.10.245.166/Library/GetBook.php?AuthorName=qa-author-6a1b7d3a
-Status: 200
-Time: 247 ms
-Request body: None
-
-[{"book_name":"Book 0","isbn":"qa9f31b1fb","aisle":"100"},{"book_name":"Book 1","isbn":"qa2aa1d6eb","aisle":"101"},{"book_name":"Book 2","isbn":"qaca1d5966","aisle":"102"}]
